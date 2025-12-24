@@ -3,7 +3,7 @@
 body
 {
     background-image: url(
-        "https://github.com/StellaVulpis/Resources/raw/main/MusicPlayer-Body.jpeg");
+        "https://github.com/glassedCat/Resources/raw/main/MusicPlayer-Body.jpeg");
     font-family: Nitw P1;
     font-size: 1.45em;
     -webkit-user-drag: none;
@@ -11,8 +11,8 @@ body
 }
 a:any-link
 {
-    cursor: url("https://github.com/StellaVulpis/Resources/raw/main/Mae-Cur.png"), 
-    url("https://github.com/StellaVulpis/Resources/raw/main/Mae-Cur.cur"), default;
+    cursor: url("https://github.com/glassedCat/Resources/raw/main/Mae-Cur.png"), 
+    url("https://github.com/glassedCat/Resources/raw/main/Mae-Cur.cur"), default;
 }
 ::-webkit-scrollbar
 {
@@ -42,7 +42,7 @@ a:any-link
     margin: 30px;
     height: 600px;
     width: 420px;
-    background-image: URL('https://github.com/StellaVulpis/Resources/raw/main/MusicPlayer-background.png');
+    background-image: URL('https://github.com/glassedCat/Resources/raw/main/MusicPlayer-background.png');
     background-size: cover;
     background-position: center;
     border-radius: 2.5%;
