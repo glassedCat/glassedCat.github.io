@@ -6,13 +6,13 @@ a:any-link
     cursor: pointer;
     text-decoration: none;
     /* Custom Cursor */
-    cursor: url("https://github.com/StellaVulpis/Resources/raw/main/Mae-Cur.png"), 
-    url("https://github.com/StellaVulpis/Resources/raw/main/Mae-Cur.cur"), default;
+    cursor: url("https://github.com/glassedCat/Resources/raw/main/Mae-Cur.png"), 
+    url("https://github.com/glassedCat/Resources/raw/main/Mae-Cur.cur"), default;
 } 
 body
 {
     background-image: url(
-        "https://github.com/StellaVulpis/Resources/raw/main/PageRedir.png");
+        "https://github.com/glassedCat/Resources/raw/main/PageRedir.png");
     background-size: 1920px;
     font-family: Nitw P1;
     font-size: 0.725em;
@@ -201,8 +201,8 @@ h4
     width: auto;
     -webkit-user-drag:none;
     -webkit-user-select:none;
-    cursor: url("https://github.com/StellaVulpis/Resources/raw/main/Mae-Cur.png"), 
-    url("https://github.com/StellaVulpis/Resources/raw/main/Mae-Cur.cur"), default;
+    cursor: url("https://github.com/glassedCat/Resources/raw/main/Mae-Cur.png"), 
+    url("https://github.com/glassedCat/Resources/raw/main/Mae-Cur.cur"), default;
 }
 #GregShaking
 {
