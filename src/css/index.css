@@ -35,12 +35,6 @@ body
     color: white;
     -webkit-user-drag: none;
     -webkit-user-select: none;
-    height: 100vh;      
-    width: 100vw;      
-    overflow: hidden;   
-    margin: 0;          
-    display: flex;     
-    flex-direction: column;
 }
 img,
 img:any-link
