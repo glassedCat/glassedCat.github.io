@@ -123,7 +123,10 @@ h2, h4
     cursor: url("https://github.com/glassedCat/Resources/raw/main/Mae-Cur.png"), 
     url("https://github.com/glassedCat/Resources/raw/main/Mae-Cur.cur"), default;
 }
-
+._section
+{
+    padding: 0;
+}
 .pageLinks
 {
     color: white;
