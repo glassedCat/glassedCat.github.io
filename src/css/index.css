@@ -35,6 +35,9 @@ body
     color: white;
     -webkit-user-drag: none;
     -webkit-user-select: none;
+    overflow: hidden;
+    height: 100vh;
+    margin: 0;
 }
 img,
 img:any-link
@@ -75,7 +78,8 @@ h2, h4
     color: #c63a18;
 }
 .IFLogo
-{
+{
+
    width: 100%;
    max-width: 50px;
    height: auto;
@@ -107,6 +111,8 @@ h2, h4
 {
     background-color: transparent;
     border-color: transparent;
+    margin-left: 0;
+    align-items: left;
 }
 #GregShaking,
 #GregAngusShaking
@@ -120,7 +126,10 @@ h2, h4
     cursor: url("https://github.com/glassedCat/Resources/raw/main/Mae-Cur.png"), 
     url("https://github.com/glassedCat/Resources/raw/main/Mae-Cur.cur"), default;
 }
-
+._section
+{
+    padding: 0;
+}
 .pageLinks
 {
     color: white;
