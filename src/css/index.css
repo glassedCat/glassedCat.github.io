@@ -85,9 +85,11 @@ h2, h4
 }
 .pageImages
 {
-    width: auto;
+    width: 100%;
+    max-width: 150px;
     height: auto;
-    border-radius: 8px;
+    object-fit: cover;
+    border-radius: 12px;
 }
 .pageLink > a > img
 {
