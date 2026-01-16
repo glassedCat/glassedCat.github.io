@@ -27,8 +27,7 @@ body, p, h1, h2, h3, h4, a, title
 }
 body
 {
-    background-image: url(
-        "https://github.com/glassedCat/Resources/raw/main/PageRedir.png");
+    background-image: url('../etc/background.png');
     background-size: cover;
     max-height: 1080px;
     background-repeat: no-repeat;
