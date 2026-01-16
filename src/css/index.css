@@ -30,8 +30,6 @@ body
     background-image: url(
         "https://github.com/glassedCat/Resources/raw/main/PageRedir.png");
     background-size: cover;
-    background-attachment: fixed;
-    background-position: top center;
     background-repeat: no-repeat;
     font-size: 0.725em;
     color: white;
