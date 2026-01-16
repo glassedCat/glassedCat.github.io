@@ -92,15 +92,7 @@ h2, h4
     object-fit: cover;
     border-radius: 12px;
 }
-.pageLink > a > img
-{
-    font-size: 3em;
-    width: 100%;
-    max-width: 150px;
-    height: auto;
-    object-fit: cover;
-    border-radius: 6.5%;
-}
+
 
 /* Choose another element to modify when the tag is hovered. */
 /* Must id(#Name) instead of class(.Name) */
@@ -119,9 +111,10 @@ h2, h4
 #GregShaking,
 #GregAngusShaking
 {
-    
-    height: 125px;
+    height: 100%;
+    max-height: 125px;
     width: auto;
+    object-fit: cover;
     -webkit-user-drag:none;
     -webkit-user-select:none;
     cursor: url("https://github.com/glassedCat/Resources/raw/main/Mae-Cur.png"), 
